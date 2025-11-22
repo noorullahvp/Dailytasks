@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methods", "methods\methods.csproj", "{335AB362-A736-4504-9B6B-F0ACAD542563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringmethods", "stringmethods\stringmethods.csproj", "{941C90EB-9304-40D4-9E69-328F882DC660}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array", "array\array.csproj", "{9D5D9765-B273-4A48-8579-DC6FA3110D2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{335AB362-A736-4504-9B6B-F0ACAD542563}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{335AB362-A736-4504-9B6B-F0ACAD542563}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{335AB362-A736-4504-9B6B-F0ACAD542563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941C90EB-9304-40D4-9E69-328F882DC660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941C90EB-9304-40D4-9E69-328F882DC660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941C90EB-9304-40D4-9E69-328F882DC660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941C90EB-9304-40D4-9E69-328F882DC660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D5D9765-B273-4A48-8579-DC6FA3110D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D5D9765-B273-4A48-8579-DC6FA3110D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D5D9765-B273-4A48-8579-DC6FA3110D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D5D9765-B273-4A48-8579-DC6FA3110D2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
