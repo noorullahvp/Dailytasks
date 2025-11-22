@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\c#practicing\stringmethods\bin\Debug\net8.0\stringmethods.exe
+C:\Users\USER\source\repos\c#practicing\stringmethods\bin\Debug\net8.0\stringmethods.deps.json
+C:\Users\USER\source\repos\c#practicing\stringmethods\bin\Debug\net8.0\stringmethods.runtimeconfig.json
+C:\Users\USER\source\repos\c#practicing\stringmethods\bin\Debug\net8.0\stringmethods.dll
+C:\Users\USER\source\repos\c#practicing\stringmethods\bin\Debug\net8.0\stringmethods.pdb
+C:\Users\USER\source\repos\c#practicing\stringmethods\obj\Debug\net8.0\stringmethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\c#practicing\stringmethods\obj\Debug\net8.0\stringmethods.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\c#practicing\stringmethods\obj\Debug\net8.0\stringmethods.AssemblyInfo.cs
+C:\Users\USER\source\repos\c#practicing\stringmethods\obj\Debug\net8.0\stringmethods.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\c#practicing\stringmethods\obj\Debug\net8.0\stringmethods.sourcelink.json
+C:\Users\USER\source\repos\c#practicing\stringmethods\obj\Debug\net8.0\stringmethods.dll
+C:\Users\USER\source\repos\c#practicing\stringmethods\obj\Debug\net8.0\refint\stringmethods.dll
+C:\Users\USER\source\repos\c#practicing\stringmethods\obj\Debug\net8.0\stringmethods.pdb
+C:\Users\USER\source\repos\c#practicing\stringmethods\obj\Debug\net8.0\stringmethods.genruntimeconfig.cache
+C:\Users\USER\source\repos\c#practicing\stringmethods\obj\Debug\net8.0\ref\stringmethods.dll
